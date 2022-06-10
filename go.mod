@@ -1,4 +1,4 @@
-module xq
+module github.com/alecsammon/go-xq
 
 go 1.17
 
